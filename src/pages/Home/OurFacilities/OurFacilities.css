@@ -1,0 +1,4 @@
+.facilities-style:hover .icon{
+transform:rotate(360deg);
+transition: 1s;  
+}

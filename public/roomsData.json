@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "title": "Standard Single Room",
+        "description": "Standard Single Rooms are designed in open -concept living area and have many facilities.",
+        "imgUrl": "https://i.ibb.co/Z145pRP/1.png",
+        "bed": 1,
+        "capacity": 1,
+        "bedType": "Single",
+        "avatar": "S",
+        "price": 119
+    },
+    {
+        "id": 2,
+        "title": "Couple Power Room",
+        "description": "Superior Double Rooms are perfectly equipped for traveling couples or friends.",
+        "imgUrl": "https://i.ibb.co/BnJmgF3/2.jpg",
+        "bed": 1,
+        "capacity": 2,
+        "bedType": "Double",
+        "avatar": "D",
+        "price": 149
+    },
+    {
+        "id": 3,
+        "title": "Family Capacity Room",
+        "description": " Have lots of in-room facilities and are designed in open-concept living area.",
+        "imgUrl": "https://i.ibb.co/NN1MFdM/3.jpg",
+        "bed": 2,
+        "capacity": 4,
+        "bedType": "Family",
+        "avatar": "F",
+        "price": 199
+    },
+    {
+        "id": 4,
+        "title": "Single",
+        "description": "A room assigned to one person. May have one or more beds",
+        "imgUrl": "https://i.ibb.co/JzQHnv4/OLYMPUS-DIGITAL-CAMERA.jpg",
+        "bed": 2,
+        "capacity": 1,
+        "bedType": "signle",
+        "avatar": "F",
+        "price": 195
+    },
+    {
+        "id": 5,
+        "title": "Standard Single Room",
+        "description": "Standard Single Rooms are designed in open -concept living area and have many facilities.",
+        "imgUrl": "https://i.ibb.co/b1GCvqY/5.jpg",
+        "bed": 1,
+        "capacity": 1,
+        "bedType": "Single",
+        "avatar": "S",
+        "price": 119
+    },
+    {
+        "id": 6,
+        "title": "Couple Power Room",
+        "description": "Superior Double Rooms are perfectly equipped for traveling couples or friends.",
+        "imgUrl": "https://i.ibb.co/cLzPFGg/6.jpg",
+        "bed": 1,
+        "capacity": 2,
+        "bedType": "Double",
+        "avatar": "D",
+        "price": 149
+    },
+    {
+        "id": 7,
+        "title": "Family Capacity Room",
+        "description": "Have lots of in-room facilities and are designed in open-concept living area.",
+        "imgUrl": "https://i.ibb.co/VgDJFmz/7.jpg",
+        "bed": 2,
+        "capacity": 4,
+        "bedType": "Family",
+        "avatar": "F",
+        "price": 199
+    },
+    {
+        "id": 8,
+        "title": "Single",
+        "description": "A room assigned to one person. May have one or more beds",
+        "imgUrl": "https://i.ibb.co/jvLXrvB/8.jpg",
+        "bed": 2,
+        "capacity": 1,
+        "bedType": "signle",
+        "avatar": "F",
+        "price": 195
+    },
+    {
+        "id": 9,
+        "title": "Standard Single Room",
+        "description": "Standard Single Rooms are designed in open -concept living area and have many facilities.",
+        "imgUrl": "https://i.ibb.co/cybY0kP/17.jpg",
+        "bed": 1,
+        "capacity": 1,
+        "bedType": "Single",
+        "avatar": "S",
+        "price": 119
+    },
+    {
+        "id": 10,
+        "title": "Couple Power Room",
+        "description": "Superior Double Rooms are perfectly equipped for traveling couples or friends.",
+        "imgUrl": "https://i.ibb.co/1qwpH26/10.jpg",
+        "bed": 1,
+        "capacity": 2,
+        "bedType": "Double",
+        "avatar": "D",
+        "price": 149
+    },
+    {
+        "id": 11,
+        "title": "Family Capacity Room",
+        "description": " Have lots of in-room facilities and are designed in open-concept living area.",
+        "imgUrl": "https://i.ibb.co/bRkzH57/11.jpg",
+        "bed": 2,
+        "capacity": 4,
+        "bedType": "Family",
+        "avatar": "F",
+        "price": 199
+    },
+    {
+        "id": 12,
+        "title": "Single",
+        "description": "A room assigned to one person. May have one or more beds",
+        "imgUrl": "https://i.ibb.co/9nczWG5/Double.png",
+        "bed": 2,
+        "capacity": 1,
+        "bedType": "signle",
+        "avatar": "F",
+        "price": 195
+    },
+    {
+        "id": 13,
+        "title": "Single",
+        "description": "A room assigned to one person. May have one or more beds",
+        "imgUrl": "https://i.ibb.co/DgxTvQc/Single.png",
+        "bed": 2,
+        "capacity": 1,
+        "bedType": "signle",
+        "avatar": "F",
+        "price": 195
+    },
+    {
+        "id": 14,
+        "title": "Standard Single Room",
+        "description": "Standard Single Rooms are designed in open -concept living area and have many facilities.",
+        "imgUrl": "https://i.ibb.co/NnwVWBP/14.jpg",
+        "bed": 1,
+        "capacity": 1,
+        "bedType": "Single",
+        "avatar": "S",
+        "price": 119
+    },
+    {
+        "id": 15,
+        "title": "Couple Power Room",
+        "description": "Superior Double Rooms are perfectly equipped for traveling couples or friends.",
+        "imgUrl": "https://i.ibb.co/SBQf38v/15.jpg",
+        "bed": 1,
+        "capacity": 2,
+        "bedType": "Double",
+        "avatar": "D",
+        "price": 149
+    },
+    {
+        "id": 16,
+        "title": "Family Capacity Room",
+        "description": " Have lots of in-room facilities and are designed in open-concept living area.",
+        "imgUrl": "https://i.ibb.co/L5h9ysW/16.jpg",
+        "bed": 2,
+        "capacity": 4,
+        "bedType": "Family",
+        "avatar": "F",
+        "price": 199
+    },
+    {
+        "id": 17,
+        "title": "Single",
+        "description": "A room assigned to one person. May have one or more beds",
+        "imgUrl": "https://i.ibb.co/cybY0kP/17.jpg",
+        "bed": 2,
+        "capacity": 1,
+        "bedType": "signle",
+        "avatar": "F",
+        "price": 195
+    },
+    {
+        "id": 18,
+        "title": "Couple Power Room",
+        "description": "Superior Double Rooms are perfectly equipped for traveling couples or friends.",
+        "imgUrl": "https://i.ibb.co/Wkn08Q3/18.jpg",
+        "bed": 1,
+        "capacity": 2,
+        "bedType": "Double",
+        "avatar": "D",
+        "price": 149
+    },
+    {
+        "id": 19,
+        "title": "Family Capacity Room",
+        "description": " Have lots of in-room facilities and are designed in open-concept living area.",
+        "imgUrl": "https://i.ibb.co/nf70LMJ/19.jpg",
+        "bed": 2,
+        "capacity": 4,
+        "bedType": "Family",
+        "avatar": "F",
+        "price": 199
+    },
+    {
+        "id": 20,
+        "title": "Single",
+        "description": "A room assigned to one person. May have one or more beds",
+        "imgUrl": "https://i.ibb.co/1Zj6sgz/Family.png",
+        "bed": 2,
+        "capacity": 1,
+        "bedType": "signle",
+        "avatar": "F",
+        "price": 195
+    }
+]
